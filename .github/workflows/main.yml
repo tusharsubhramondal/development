@@ -14,7 +14,7 @@ jobs:
     - name: Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
-        server: ftp.appzone.in
+        server: appzone.in
         username: dev@appzone.in
         password: H]tdBY1*c&W+
         exclude: |
